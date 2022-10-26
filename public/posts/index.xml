@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Aamirs Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 16:09:56 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 17:52:26 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim</title>
+      <link>https://aamira.me/posts/vim/</link>
+      <pubDate>Wed, 26 Oct 2022 17:52:26 -0400</pubDate>
+      
+      <guid>https://aamira.me/posts/vim/</guid>
+      <description>Vim is awsome and everyone should use it It makes me look smart and so does having a website.</description>
+    </item>
+    
     <item>
       <title>Take Two</title>
       <link>https://aamira.me/posts/take-two/</link>
@@ -22,7 +31,7 @@
       <pubDate>Tue, 25 Oct 2022 20:45:12 -0400</pubDate>
       
       <guid>https://aamira.me/posts/first_post/</guid>
-      <description>HELLO WORLD!!!!! </description>
+      <description>HELLO WORLD!!!!! Editing</description>
     </item>
     
   </channel>
