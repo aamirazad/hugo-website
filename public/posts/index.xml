@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Aamirs Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Oct 2022 20:45:12 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 16:09:56 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take Two</title>
+      <link>https://aamira.me/posts/take-two/</link>
+      <pubDate>Wed, 26 Oct 2022 16:09:56 -0400</pubDate>
+      
+      <guid>https://aamira.me/posts/take-two/</guid>
+      <description>How it going? I do not know how to use markdown</description>
+    </item>
+    
     <item>
       <title>First_post</title>
       <link>https://aamira.me/posts/first_post/</link>
