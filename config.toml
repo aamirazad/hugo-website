@@ -39,3 +39,6 @@ enableRobotsTXT = true
 
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
+[params]
+  showPostsOnHomePage = "recent"
+  avatarURL = "/images/logo.png"
