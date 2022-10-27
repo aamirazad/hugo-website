@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aamirs Website</title>
+    <title>Posts on Aamir&#39;s Website</title>
     <link>https://aamira.me/posts/</link>
-    <description>Recent content in Posts on Aamirs Website</description>
+    <description>Recent content in Posts on Aamir&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 17:52:26 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 19:47:13 -0400</lastBuildDate><atom:link href="https://aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Somany</title>
+      <link>https://aamira.me/posts/somany/</link>
+      <pubDate>Wed, 26 Oct 2022 19:47:13 -0400</pubDate>
+      
+      <guid>https://aamira.me/posts/somany/</guid>
+      <description>Just testing if this appears on google I have way to many posts lets insert a link the link
+Copyright matters I love to use other peoples work — Rob Pike1
+&amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt;&amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; This is supposed to be a citation&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
     <item>
       <title>Vim</title>
       <link>https://aamira.me/posts/vim/</link>
