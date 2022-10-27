@@ -1,6 +1,6 @@
 baseURL = 'https://aamira.me/'
 languageCode = 'en'
-title = 'Aamirs Website'
+title = "Aamir's Website"
 theme = "gokarna"
 defaultContentLanguage = "en"
 
