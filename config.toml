@@ -1,6 +1,6 @@
 baseURL = 'https://bata.aamira.me/'
 languageCode = 'en'
-title = "Aamir's Website"
+title = 'Aamirs Website'
 theme = "gokarna"
 defaultContentLanguage = "en"
 
@@ -9,18 +9,13 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    pre = "<span data-feather='home'></span>"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
     # Unique identifier for a menu item
     identifier = "posts"
 
     url = "/posts/"
 
     # You can add extra information before the name (HTML format is supported), such as icons
-    pre = "<span data-feather='book'></span>"
+    pre = ""
 
     # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
@@ -34,7 +29,6 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
-    pre = "<span data-feather='tag'></span>"
     url = "/tags/"
     weight = 2
 
