@@ -48,3 +48,6 @@ enableRobotsTXT = true
 [params]
   showPostsOnHomePage = "recent"
   avatarURL = "/images/logo.png"
+  customHeadHTML = """
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1886730494586578"
+  crossorigin="anonymous"></script> """
