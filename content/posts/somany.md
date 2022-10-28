@@ -4,6 +4,7 @@ date: 2022-10-26T19:47:13-04:00
 draft: false
 type: "post"
 tags: ["Testing"]
+showTableOfContents: true
 ---
 ## Just testing if this appears on google
 I have way to many posts
