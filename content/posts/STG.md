@@ -1,9 +1,10 @@
 ---
 title: "Simple Tab Groups is the best extention ever"
 date: 2022-10-28T16:11:59-04:00
-draft: true 
+draft: true
 type: "post"
-tags: "Firefox"
+tags: ["Firefox"]
+showTableOfContents: true
 ---
 Once use begin to understand the power of this extetion, you can never go back
 ## What it does
