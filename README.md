@@ -1,2 +1,2 @@
 # hugo-website
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2046665d-cc5a-4dfe-a0f5-7c38d58efbdf/deploy-status)](https://app.netlify.com/sites/gregarious-sunshine-e0cc68/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2337b3f-57b9-4854-84bc-d44a6a3c86a6/deploy-status)](https://app.netlify.com/sites/resplendent-croquembouche-2a7ead/deploys)
