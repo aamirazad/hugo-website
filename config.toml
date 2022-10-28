@@ -48,7 +48,6 @@ enableRobotsTXT = true
 [params]
   showPostsOnHomePage = "recent"
   avatarURL = "/images/logo.png"
-  metaKeywords = ["blog"]
   customHeadHTML = """
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0WWJG03GJY"></script>
