@@ -1,4 +1,4 @@
-baseURL = 'https://aamira.me/'
+baseURL = 'https://www.aamira.me/'
 languageCode = 'en'
 title = "Aamir's Website"
 theme = "gokarna"
