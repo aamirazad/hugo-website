@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: true
 type: "post"
 tags: [" "]
-showTableOfContents = true
+showTableOfContents: true
 ---
 
