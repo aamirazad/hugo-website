@@ -1,7 +1,7 @@
 ---
 title: "Vim"
 date: 2022-10-26T17:52:26-04:00
-draft: false
+draft: true
 type: "post"
 ---
 ## Vim is awsome and everyone should use it
