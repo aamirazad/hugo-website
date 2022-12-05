@@ -1,7 +1,7 @@
 ---
 title: "Goodnight myself"
 date: 2022-11-11T16:53:34-05:00
-draft: false
+draft: true
 type: "post"
 tags: ["goodnight"]
 showTableOfContents: true
